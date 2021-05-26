@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# virutal env
+env-take-a-break/
+
+# workspace config
+.vscode/
+
+# cache
+backend/__pycache__/
